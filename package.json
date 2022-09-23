@@ -104,6 +104,7 @@
     "typescript": "^3.5.2"
   },
   "dependencies": {
+    "deprecated-react-native-prop-types": "^2.3.0",
     "opencollective-postinstall": "^2.0.0",
     "prop-types": "^15.7.2"
   },
